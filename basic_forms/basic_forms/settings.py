@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-c@m(mc0=2_q*ic^t+xm7d99)2i4*owt%tru(cd0a6w$ryg(y8c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-struk49-formbasic-0c0ugk7l0qh.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-struk49-formbasic-oh07wknzqiw.ws.codeinstitute-ide.net']
 
 
 # Application definition
@@ -73,7 +73,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'basic_forms.wsgi.application'
 CSRF_COOKIE_SECURE = True
 CSRF_COOKIE_SAMESITE = 'Strict'
-CSRF_TRUSTED_ORIGINS = ['https://8000-struk49-formbasic-0c0ugk7l0qh.ws.codeinstitute-ide.net']
+CSRF_TRUSTED_ORIGINS = ['https://8000-struk49-formbasic-oh07wknzqiw.ws.codeinstitute-ide.net']
 
 
 
